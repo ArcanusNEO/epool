@@ -1,0 +1,13 @@
+*
+!.gitignore
+!.gitmodules
+
+!LICENSE
+!README
+
+!Makefile
+
+!src
+!*.h
+cmacs.h
+!*.c
